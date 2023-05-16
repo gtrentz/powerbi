@@ -5,7 +5,7 @@
 package src;
 import java.awt.*;
 
-public class GraphGUI {
+public class GraphGUI { //Commit message
     Graphics g = new Graphics();
     private void startScreen() {
 
